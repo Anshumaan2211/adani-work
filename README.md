@@ -1,1 +1,1 @@
-Logical Formulas lecture files is inlecture3.xlsx.
+Logical Formulas lecture files is in lecture3.xlsx.
